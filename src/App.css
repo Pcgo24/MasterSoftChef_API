@@ -1,0 +1,131 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('./components/palmirinha.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 300px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 20px;
+  background-color: #4dbaec;
+  border: 1px solid #000;
+}
+
+.card .title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.plus-icon {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.add-receita-card {
+  background-color: #4dbaec;
+}
+
+.card, .card-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.receita-detalhes {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.card {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card h2 {
+  color: #333;
+}
+
+.card h3 {
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.card li {
+  margin-bottom: 5px;
+}
+
+.botao-voltar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.adicionar-receita {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input{
+  border-radius: 10px;
+}
+
+textarea {
+  height: 100px;
+  border-radius: 10px;
+}
+
+button[type="submit"] {
+  background-color: #4CAF50; /* Verde */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolo de Chocolate Vegano",
+      "ingredientes": ["farinha de trigo integral", "açúcar de coco", "leite de coco", "chocolate em pó", "fermento em pó"],
+      "modoPreparo": "Misture os ingredientes secos. Em seguida, adicione os ingredientes úmidos e misture bem. Leve ao forno pré-aquecido por 30 minutos."
+    },
+    {
+      "id": 2,
+      "titulo": "Macarrão com Brócolis e Alho",
+      "ingredientes": ["macarrão integral", "brócolis", "alho", "azeite de oliva", "sal", "pimenta do reino"],
+      "modoPreparo": "Cozinhe o macarrão al dente. Refogue o alho no azeite, adicione o brócolis e cozinhe por alguns minutos. Misture ao macarrão."
+    },
+    {
+      "id": 3,
+      "titulo": "Sopa de Lentilha",
+      "ingredientes": ["lentilha", "cenoura", "cebola", "alho", "tomate", "caldo de legumes"],
+      "modoPreparo": "Refogue a cebola e o alho. Adicione a lentilha, a cenoura e o tomate. Cubra com o caldo de legumes e cozinhe até a lentilha ficar macia."
+    },
+    {
+      "id": 4,
+      "titulo": "Salada Caprese",
+      "ingredientes": ["tomate", "mussarela", "manjericão", "azeite de oliva", "sal", "pimenta do reino"],
+      "modoPreparo": "Corte os tomates e a mussarela em rodelas. Alterne as rodelas em um prato, adicione as folhas de manjericão e tempere com azeite, sal e pimenta."
+    },
+    {
+      "id": 5,
+      "titulo": "Smoothie de Frutas Vermelhas",
+      "ingredientes": ["morango", "framboesa", "mirtilo", "iogurte natural", "mel"],
+      "modoPreparo": "Bata todos os ingredientes no liquidificador até obter uma consistência homogênea."
+    }
+  ]
